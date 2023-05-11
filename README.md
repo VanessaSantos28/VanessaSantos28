@@ -3,8 +3,17 @@
 - 🌱 Aprendendo linguagem Dart e framework Flutter
 - ❤  Apaixonada por tecnologia
 - 📚 Em transição de carreira
-- 👩 Pronome ela/dela                
+- 👩 Pronome ela/dela            
   
+
+
+## GitHub Stats and Most Used Languages
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=VanessaSantos28&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=29.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaSantos28&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/VanessaSantos28/github-readme-stats)
+  
+  
+ 
 ## Tecnologias que uso
 
 <div style="display: inline_block"><br>        
